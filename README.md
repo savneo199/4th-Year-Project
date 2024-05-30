@@ -1,3 +1,5 @@
+A setup and istallation video for the prototype can be found in the following link: https://www.youtube.com/watch?app=desktop&v=mcPkZYgJpUc&feature=youtu.be
+
 Please find all the MATLAB and Arduino codes used for the purposes of the 4th year project by Team 22
 
 "ESP32_Cadence.ino" is the Arduino code used to programme the ESP32 SoC to connect automatically with the cadence sensor and read and decrypt the raw cadence data. 
